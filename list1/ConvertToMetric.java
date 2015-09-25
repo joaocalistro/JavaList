@@ -13,7 +13,6 @@ public class ConvertToMetric {
     inches = Double.parseDouble(inchesInput);
     celsius = ((fahrenheit - 32)*5)/9;
     milimeters = inches * 25.4;
-    //JOptionPane.showMessageDialog(null, String.format("Para uma temperatura em fahrenheit de %.2f /n o equivalente em Celsius será %.2f /n Para um volume de chuva de %.2f em polegadas, /n o equivalente em milimetros será %.2f", fahrenheit, celsius, inches, milimeters));
     JOptionPane.showMessageDialog(null, String.format("Para uma temperatura em fahrenheit de %.0f \n o equivalente em Celsius será %.0f. \n\n Para um volume de chuva de %.0f polegadas, \n o equivalente em milimetros será %.0f.", fahrenheit, celsius, inches, milimeters));
   }
 }
