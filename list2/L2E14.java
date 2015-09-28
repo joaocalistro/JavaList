@@ -1,25 +1,6 @@
 import javax.swing.*;
 public class L2E14{
   public static void main(String[] args) {
-
-
-/*
-> 300 5%
-> 1750 10% (sobre o que ultrapassar o 1750)
-se ambos, 5% primeiro, depois 10%
-
-leia
-N. do fazendeiro
-Tipo de pulverizacao 1 a 4
-area
-
-calcular
-custo final
-
-imprimir
-O fazendeiro, _N_, pagará pelo serviço de pulverização: R$____.
-
-*/
     String dataInput;
     dataInput = JOptionPane.showInputDialog("Digite o número do fazendeiro:");
     int farmerNumber = Integer.parseInt(dataInput);
