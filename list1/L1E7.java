@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Age {
+public class L1E7 {
   public static void main(String[] args) {
     int years;
     int months;

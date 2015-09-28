@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Wage {
+public class L1E10 {
   public static void main(String[] args) {
     double employeeNumber;
     double hours;

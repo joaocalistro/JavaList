@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Ipi {
+public class L1E9 {
   public static void main(String[] args) {
     double ipi;
     double product1;

@@ -1,6 +1,5 @@
 import javax.swing.*;
-import java.awt.*;
-public class WeightedAverage {
+public class L1E17 {
   public static void main(String[] args) {
   String dataInput;
   dataInput = JOptionPane.showInputDialog("Digite a nota da prova 1:");

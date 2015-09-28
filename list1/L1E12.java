@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-public class Bakery {
+public class L1E12 {
   public static void main(String[] args) {
 
   /*

@@ -1,6 +1,5 @@
 import javax.swing.*;
-import java.awt.*;
-public class Refrigerator {
+public class L1E14 {
   public static void main(String[] args) {
   String dataInput;
   dataInput = JOptionPane.showInputDialog("Taxa de potência do refrigerador em watts:");

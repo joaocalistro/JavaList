@@ -1,6 +1,5 @@
 import javax.swing.*;
-import java.awt.*;
-public class Exam {
+public class L1E16 {
   public static void main(String[] args) {
   String dataInput;
   dataInput = JOptionPane.showInputDialog("Digite a nota da prova 1:");

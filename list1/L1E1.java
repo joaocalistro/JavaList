@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class CanPrice {
+public class L1E1 {
   public static void main(String[] args) {
     double aluminiumPricePerSqMeter;
     double canRadius;

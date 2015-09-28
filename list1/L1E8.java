@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class FactoryEvent {
+public class L1E8 {
   public static void main(String[] args) {
     double seconds;
     double hours;

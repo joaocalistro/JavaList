@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class ConvertToMetric {
+public class L1E2 {
   public static void main(String[] args) {
     double fahrenheit;
     double celsius;

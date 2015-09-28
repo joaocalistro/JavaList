@@ -1,6 +1,5 @@
 import javax.swing.*;
-import java.awt.*;
-public class Soccer {
+public class L1E13 {
   public static void main(String[] args) {
   String dataInput;
   dataInput = JOptionPane.showInputDialog("Público pagante:");

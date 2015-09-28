@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Hotel {
+public class L1E11 {
   public static void main(String[] args) {
     /*
     Considerações a respeito da minha solução:

@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Distance {
+public class L1E4 {
   public static void main(String[] args) {
     double pointA1;
     double pointA2;

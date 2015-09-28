@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Pyramid {
+public class L1E5 {
   public static void main(String[] args) {
     double base;
     double height;

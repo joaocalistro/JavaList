@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class VeiculePrice {
+public class L1E3 {
   public static void main(String[] args) {
     double factoryPrice;
     double customerPrice;

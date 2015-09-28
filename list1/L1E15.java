@@ -1,6 +1,5 @@
 import javax.swing.*;
-import java.awt.*;
-public class BankAccount {
+public class L1E15 {
   public static void main(String[] args) {
   String dataInput;
   dataInput = JOptionPane.showInputDialog("Digite o número da conta (3 digitos):");
