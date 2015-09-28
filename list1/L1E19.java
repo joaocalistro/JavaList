@@ -23,6 +23,6 @@ public class L1E19 {
   double salary = Double.parseDouble(dataInput);
   double commissions = (lcd * 50) + (led * 60) + (plasma * 55);
   double toPay = salary + commissions;
-  JOptionPane.showMessageDialog(null, String.format("Salário: R$%.2f\nComissões: R$%.2f\n\nTotal a pagar (salário + comissões): %.2f", salary, commissions, toPay));
+  JOptionPane.showMessageDialog(null, String.format("Salário: R$%.2f\nComissões: R$%.2f\n\nTotal a pagar (salário + comissões): R$%.2f", salary, commissions, toPay));
   }
 }
