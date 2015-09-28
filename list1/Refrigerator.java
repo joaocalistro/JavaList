@@ -14,4 +14,3 @@ public class Refrigerator {
   JOptionPane.showMessageDialog(null, String.format("Energia total gasta: %.0f\n\nValor a ser pago: R$%.2f", energyExpended, priceToPay));
   }
 }
-
